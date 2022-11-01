@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\πÃ¥œ≈Î«’±Í\ISOUR_HJ\ISOUR\Eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2142937199.index
+700256945.index
+402892147.index
+3276387983.index
+1678862785.index
